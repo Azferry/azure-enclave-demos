@@ -1,0 +1,19 @@
+# Secrets and local settings
+.env
+*.env
+*.parameters.json
+*.local.bicepparam
+secrets*
+
+# Azure / tooling
+.azure/
+*.log
+
+# Build output
+*.arm.json
+*.compiled.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
