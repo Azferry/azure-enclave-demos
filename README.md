@@ -1,6 +1,6 @@
 # Azure Enclaves: Architecture Samples
 
-A collection of deployable reference architectures for [Azure Virtual Enclaves](https://learn.microsoft.com/azure/). Each architecture is self-contained, written in Bicep, and has its own README with deploy, validate, and teardown steps.
+A collection of deployable reference architectures for [Azure Enclaves](https://learn.microsoft.com/en-us/azure/enclave/). Each architecture is self-contained, written in Bicep, and has its own README with deploy, validate, and teardown steps.
 
 > **Disclaimer:** These are sample templates for learning and demos for the Azure Enclave service. They are not an official Microsoft product, come with no warranty or support, and are not hardened for production. All names, domains (`contoso.local`), and IP ranges are placeholders.
 
